@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+.env
+dist/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+*.class
+target/
+*.jar
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+.dockerignore
+
+# Devcontainer
+.devcontainer/*.local
+.devcontainer/env.sh
+
+# Logs
+*.log
+*.out
+*.err
+
+# Ignore by extension
+*.bak
+*.swp
+
+
+#for file
+sumon.yaml
